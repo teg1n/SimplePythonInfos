@@ -28,7 +28,7 @@ turtle.forward(150)
 
 turtle.done()
 
-"""
+
 #STAR
 import turtle
 
@@ -41,3 +41,4 @@ for i in range(5):
     turtle.left(144)
 
 turtle.done()
+"""
