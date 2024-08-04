@@ -16,7 +16,7 @@ def havadurumu(sehir , api):
 def searchButton():
     if __name__ == "__main__":
         sehir = city_entry.get()
-        api = "1a3b293bc841634ab69adf4a6a2b3a91"
+        api = "***(For Security)"
         try:
             weatherResult = havadurumu(sehir, api)
 

@@ -8,6 +8,6 @@ def hava_durumu_ögren(sehir , api):
 
 if __name__ == "__main__":
     sehir= input("Lütfen hava durumunu öğrenmek istediğiniz şehrin adını girin: ")
-    api = "1a3b293bc841634ab69adf4a6a2b3a91"
+    api = "***(For Security)"
 
     
